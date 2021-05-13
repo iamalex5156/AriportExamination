@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="本软件主要提供机场路面检测智能车的相关配套功能。"/>
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="如何使用本软件？"
+            android:textSize="16sp"/>
+
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="页面一：主页面"
+            android:textColor="#000000"
+            android:textSize="20sp"/>
+】
+
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="功能一：地图放大缩小\n页面支持拖动查看、双指缩放、双击放大等功能。点击“+”和“-”按钮将放大和缩小地图，左上角第一个按钮将回归原始地图缩放比、地图中心以及旋转角度。"
+            android:textSize="16sp"/>
+
+
+        <TextView
+            android:layout_marginTop="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="点击+号按钮，可以打开扩展按钮，从上往下依次为，规划检测路线、刷新数据、视频监控"
+            android:textSize="16sp"/>
+
+
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">机场路面监测APP</string>
+
+    <string name="slogan">智慧机场，由此开启！</string>
+
+    <string name="hint_usename">用户名:</string>
+    <string name="hint_password">密码:</string>
+    <string name="copyright_information"> © 徐江威 17软件工程</string>
+
+</resources>
